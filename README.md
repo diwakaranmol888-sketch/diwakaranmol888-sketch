@@ -7,8 +7,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=diwakaranmol888-sketch&label=PROFILE+VIEWS&color=22d3ee&style=for-the-badge)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/anmol-diwakar-240711438)
+[![Email](https://img.shields.io/badge/Email-a78bfa?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diwakaranmol888@gmail.com)
 [![Followers](https://img.shields.io/github/followers/diwakaranmol888-sketch?style=for-the-badge&logo=github&color=0b1030)](https://github.com/diwakaranmol888-sketch)
 
 <img src="./assets/divider.svg" width="100%"/>
@@ -22,9 +22,9 @@ const anmol = {
   name: "Anmol Diwakar",
   degree: "B.Tech CSE (AIML)",
   roles: ["Vibe Coder", "Editor"],
-  location: "Your City, Your Country",
+  location: "Unnao, India",
   focus: ["AI/ML", "Vibe coding", "Editing"],
-  currentlyBuilding: "Your current project",
+  currentlyBuilding: "Websites and AI-powered projects",
   currentlyLearning: ["Machine learning", "Full-stack web", "Prompt engineering"],
   lookingFor: "Internships and roles at global companies",
   funFact: "Turns prompts into products and raw footage into stories",
@@ -90,9 +90,8 @@ const anmol = {
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[project-one](https://github.com/diwakaranmol888-sketch/project-one)** | One line on the problem it solves | `Java` `AWS` |
-| **[project-two](https://github.com/diwakaranmol888-sketch/project-two)** | One line on the problem it solves | `Python` `Docker` |
-| **[project-three](https://github.com/diwakaranmol888-sketch/project-three)** | One line on the problem it solves | `React` `Node` |
+| **[MANORANJAN-RESTAURANT](https://github.com/diwakaranmol888-sketch/MANORANJAN-RESTAURANT)** | Restaurant website | `HTML` |
+| **[Dr-Praveena-Patel](https://github.com/diwakaranmol888-sketch/Dr-Praveena-Patel)** | Website project | `JavaScript` |
 
 <div align="center">
 
